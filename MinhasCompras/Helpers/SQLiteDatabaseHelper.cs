@@ -1,4 +1,7 @@
-﻿using MinhasCompras.Models;
+﻿
+
+
+using MinhasCompras.Models;
 using SQLite;
 
 namespace MinhasCompras.Helpers
